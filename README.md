@@ -24,17 +24,25 @@ When you ask monetization questions in Claude Code, this skill automatically act
 
 ## Installation
 
-1. Download the `ios-monetization-expert.skill` file
-2. Open Claude Code and run:
+1. Clone the repository:
 
-```
-/install-skill /path/to/ios-monetization-expert.skill
+```bash
+git clone https://github.com/adaptyteam/growth-expert-skill.git
 ```
 
-Or install directly from this repo:
+2. Create the Claude skills directory if it does not exist:
 
+```bash
+mkdir -p ~/.claude/skills
 ```
-/install-skill https://github.com/adaptyteam/growth-expert-skill/raw/main/ios-monetization-expert.skill
+
+3. Copy the skill into your Claude skills folder:
+
+```bash
+cp -R growth-expert-skill/ios-monetization-expert ~/.claude/skills/
+```
+
+4. Restart Claude Code.
 ```
 
 ## Data Coverage
